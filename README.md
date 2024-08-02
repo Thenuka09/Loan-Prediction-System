@@ -31,7 +31,7 @@ The project consists of a Streamlit web application that allows users to input t
 
 - `Lone_Prediction.py` Streamlit application script that includes both home and prediction pages.
 
-- `lone.csv` Dataset used for training and testing the model.
+- `loan.csv` Dataset used for training and testing the model.
 
 - `LDA_Model.pkl` Pickled Linear Discriminant Analysis model for loan prediction.
 
