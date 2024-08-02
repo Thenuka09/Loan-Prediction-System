@@ -1,5 +1,5 @@
 
-# Lone Prediction System 
+# Loan Prediction System 
 
 This project involves developing a loan prediction system using machine learning techniques. The system predicts whether a loan applicant will be approved or not based on various features such as gender, marital status, income, lone amount, education, property and more.
 
