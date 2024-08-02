@@ -18,7 +18,7 @@ if app_mode == 'Home':
 
 elif app_mode == 'Prediction':
     def run():
-        img = Image.open('slider-short-3.jpg')
+        #img = Image.open('slider-short-3.jpg')
         st.title("Predict Your Status of Bank Loan")
 
         fullName = st.text_input("Your Full Name")
