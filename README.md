@@ -61,6 +61,8 @@ The project consists of a Streamlit web application that allows users to input t
  - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
  - [Pandas Documentation](https://pandas.pydata.org/docs/)
 
+## Streamlit URL
+Visit to the [Lone Prediction System](https://lone-prediction-system.streamlit.app/)
 
 ## License
 
