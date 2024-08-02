@@ -9,7 +9,7 @@ app_mode = st.sidebar.selectbox('Select Page', ['Home', 'Prediction'])
 
 if app_mode == 'Home':
     st.title('LOAN PREDICTION SYSTEM:')
-   # st.image('loan_image.jpg')
+    st.image('loan_image.jpg')
     st.markdown('Dataset :')
     data = pd.read_csv('loan.csv')
     st.write(data.head())
