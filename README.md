@@ -37,6 +37,7 @@ The project consists of a Streamlit web application that allows users to input t
 
 - `Lone_Prediction_ML_Model.ipynb` Python code for train the Machine Learning Model
 - `requirements.txt`  List of required Python packages.
+- `documentation.pdf` Development steps and streamlit link
 ## Data Processing
 
 1. **Loading Data:** The dataset is loaded from `loan.csv.`
